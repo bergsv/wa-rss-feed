@@ -1,7 +1,9 @@
 name: Generate World Archery RSS Feed
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: '0 7 1 * *' # Runs monthly on the 1st at 7:00 AM UTC
 
 jobs:
   build:
