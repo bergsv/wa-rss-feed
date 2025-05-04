@@ -68,8 +68,7 @@ def generate_rss_feed():
                 f"Level: {item.get('Level', 'Unknown')}",
                 f"Status: {item.get('StatusDescription', 'Unknown')}"
             ]
-            fe.description("
-".join(description_parts))
+            fe.description("\n".join(description_parts))
 
             # Use the event ID as a unique identifier if available
             event_id = item.get('ID')
