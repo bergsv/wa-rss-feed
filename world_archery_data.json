@@ -8187,8 +8187,8 @@
     },
     {
         "ID": 28524,
-        "Name": "2025 Asia PARA Cup-World Ranking Tournament",
-        "NameShort": "",
+        "Name": "Bangkok 2025 Asia Para Cup",
+        "NameShort": "Bangkok 2025 Asia Para Cup",
         "Venue": "Archery Range at the Sports Authority of Thailand,",
         "Place": "Bangkok, Thailand",
         "Country": "THA",
@@ -8197,16 +8197,16 @@
         "DTo": "2025-02-11",
         "WithRes": true,
         "ComEventType": 1,
-        "ComLevel": 8,
-        "ComSubLevel": 0,
+        "ComLevel": 7,
+        "ComSubLevel": 64,
         "ComDis": 1,
         "ComDivisions": [
             1,
             2
         ],
         "EventType": "Competition",
-        "Level": "Other International Event",
-        "SubLevel": null,
+        "Level": "International Event Circuits",
+        "SubLevel": "Asian Para Grand Prix Circuit",
         "IsFeatured": false,
         "WorldRecordStatus": true,
         "WorldRankingEvent": true,
@@ -13712,8 +13712,8 @@
     },
     {
         "ID": 28523,
-        "Name": "2025 Asia Cup-World Ranking Tournament, Stage I",
-        "NameShort": "",
+        "Name": "Bangkok 2025 Asia Cup leg 1",
+        "NameShort": "Bangkok 2025 Asia Cup",
         "Venue": "Archery Range at the Sports Authority of Thailand,",
         "Place": "Bangkok, Thailand",
         "Country": "THA",
@@ -13722,16 +13722,16 @@
         "DTo": "2025-02-23",
         "WithRes": true,
         "ComEventType": 1,
-        "ComLevel": 8,
-        "ComSubLevel": 0,
+        "ComLevel": 7,
+        "ComSubLevel": 47,
         "ComDis": 1,
         "ComDivisions": [
             1,
             2
         ],
         "EventType": "Competition",
-        "Level": "Other International Event",
-        "SubLevel": null,
+        "Level": "International Event Circuits",
+        "SubLevel": "Asian Grand Prix Circuit",
         "IsFeatured": false,
         "WorldRecordStatus": true,
         "WorldRankingEvent": true,
@@ -28875,7 +28875,7 @@
     {
         "ID": 28939,
         "Name": "Antalya 2025 Spring Arrows European Grand Prix Leg 1",
-        "NameShort": "",
+        "NameShort": "Antalya 2025 Spring Arrows",
         "Venue": "",
         "Place": "Antalya",
         "Country": "TUR",
@@ -28884,16 +28884,16 @@
         "DTo": "2025-04-27",
         "WithRes": true,
         "ComEventType": 1,
-        "ComLevel": 8,
-        "ComSubLevel": 0,
+        "ComLevel": 7,
+        "ComSubLevel": 46,
         "ComDis": 1,
         "ComDivisions": [
             1,
             2
         ],
         "EventType": "Competition",
-        "Level": "Other International Event",
-        "SubLevel": null,
+        "Level": "International Event Circuits",
+        "SubLevel": "European Grand Prix Circuit",
         "IsFeatured": false,
         "WorldRecordStatus": true,
         "WorldRankingEvent": true,
@@ -37512,7 +37512,7 @@
     {
         "ID": 29293,
         "Name": "Medellin 2025 South American Open Championships",
-        "NameShort": "",
+        "NameShort": "Medellin 2025",
         "Venue": "Campo Suramericano de Tiro con Arco",
         "Place": "Medellín, Antioquia ",
         "Country": "COL",
@@ -38268,8 +38268,8 @@
     },
     {
         "ID": 28887,
-        "Name": "2025 Veronica's Cup",
-        "NameShort": "",
+        "Name": "Kamnik 2025 Veronica’s Cup",
+        "NameShort": "Kamnik 2025 Veronica’s Cup",
         "Venue": "",
         "Place": "Kamnik",
         "Country": "SLO",
@@ -40755,32 +40755,32 @@
     {
         "ID": 28842,
         "Name": "Rome 2025 European Para Archery Cup Leg 1",
-        "NameShort": "",
+        "NameShort": "Rome 2025",
         "Venue": "",
         "Place": "Rome",
         "Country": "ITA",
         "CountryName": "Italy",
         "DFrom": "2025-05-26",
         "DTo": "2025-05-31",
-        "WithRes": false,
+        "WithRes": true,
         "ComEventType": 1,
-        "ComLevel": 8,
-        "ComSubLevel": 0,
+        "ComLevel": 7,
+        "ComSubLevel": 62,
         "ComDis": 1,
         "ComDivisions": [
             1,
             2
         ],
         "EventType": "Competition",
-        "Level": "Other International Event",
-        "SubLevel": null,
+        "Level": "International Event Circuits",
+        "SubLevel": "European Para Grand Prix Circuit",
         "IsFeatured": false,
         "WorldRecordStatus": true,
         "WorldRankingEvent": true,
-        "IsLive": true,
+        "IsLive": false,
         "IsCancelled": false,
         "ComHideInLive": "0",
-        "StatusId": 0,
+        "StatusId": 1,
         "StatusDescription": "Recognised",
         "Address": {
             "Contact": "",
@@ -40800,6 +40800,66 @@
             "WADA"
         ],
         "CatInd": [
+            {
+                "Code": "VI1",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
+            },
+            {
+                "Code": "VI23",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
+            },
             {
                 "Code": "RMO",
                 "Phases": [
@@ -41069,69 +41129,81 @@
                         "Name": "Gold Final"
                     }
                 ]
-            },
-            {
-                "Code": "VI1",
-                "Phases": [
-                    {
-                        "PhCode": "-10",
-                        "Phase": "Qualification Round",
-                        "NameShort": "QR",
-                        "Name": "Qualification Round",
-                        "Finished": true
-                    },
-                    {
-                        "PhCode": "2",
-                        "Phase": "Semifinal",
-                        "NameShort": "SF",
-                        "Name": "Semifinal"
-                    },
-                    {
-                        "PhCode": "1",
-                        "Phase": "Bronze Final",
-                        "NameShort": "BF",
-                        "Name": "Bronze Final"
-                    },
-                    {
-                        "PhCode": "0",
-                        "Phase": "Gold Final",
-                        "NameShort": "F",
-                        "Name": "Gold Final"
-                    }
-                ]
-            },
-            {
-                "Code": "VI23",
-                "Phases": [
-                    {
-                        "PhCode": "-10",
-                        "Phase": "Qualification Round",
-                        "NameShort": "QR",
-                        "Name": "Qualification Round",
-                        "Finished": true
-                    },
-                    {
-                        "PhCode": "2",
-                        "Phase": "Semifinal",
-                        "NameShort": "SF",
-                        "Name": "Semifinal"
-                    },
-                    {
-                        "PhCode": "1",
-                        "Phase": "Bronze Final",
-                        "NameShort": "BF",
-                        "Name": "Bronze Final"
-                    },
-                    {
-                        "PhCode": "0",
-                        "Phase": "Gold Final",
-                        "NameShort": "F",
-                        "Name": "Gold Final"
-                    }
-                ]
             }
         ],
         "CatTeam": [
+            {
+                "Code": "RXO",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
+            },
+            {
+                "Code": "CXO",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
+            },
             {
                 "Code": "RMO",
                 "Phases": [
@@ -41205,42 +41277,6 @@
                 ]
             },
             {
-                "Code": "RXO",
-                "Phases": [
-                    {
-                        "PhCode": "-10",
-                        "Phase": "Qualification Round",
-                        "NameShort": "QR",
-                        "Name": "Qualification Round",
-                        "Finished": true
-                    },
-                    {
-                        "PhCode": "4",
-                        "Phase": "Quarterfinal",
-                        "NameShort": "QF",
-                        "Name": "Quarterfinal"
-                    },
-                    {
-                        "PhCode": "2",
-                        "Phase": "Semifinal",
-                        "NameShort": "SF",
-                        "Name": "Semifinal"
-                    },
-                    {
-                        "PhCode": "1",
-                        "Phase": "Bronze Final",
-                        "NameShort": "BF",
-                        "Name": "Bronze Final"
-                    },
-                    {
-                        "PhCode": "0",
-                        "Phase": "Gold Final",
-                        "NameShort": "F",
-                        "Name": "Gold Final"
-                    }
-                ]
-            },
-            {
                 "Code": "CMO",
                 "Phases": [
                     {
@@ -41291,42 +41327,6 @@
                         "NameShort": "QR",
                         "Name": "Qualification Round",
                         "Finished": true
-                    },
-                    {
-                        "PhCode": "2",
-                        "Phase": "Semifinal",
-                        "NameShort": "SF",
-                        "Name": "Semifinal"
-                    },
-                    {
-                        "PhCode": "1",
-                        "Phase": "Bronze Final",
-                        "NameShort": "BF",
-                        "Name": "Bronze Final"
-                    },
-                    {
-                        "PhCode": "0",
-                        "Phase": "Gold Final",
-                        "NameShort": "F",
-                        "Name": "Gold Final"
-                    }
-                ]
-            },
-            {
-                "Code": "CXO",
-                "Phases": [
-                    {
-                        "PhCode": "-10",
-                        "Phase": "Qualification Round",
-                        "NameShort": "QR",
-                        "Name": "Qualification Round",
-                        "Finished": true
-                    },
-                    {
-                        "PhCode": "4",
-                        "Phase": "Quarterfinal",
-                        "NameShort": "QF",
-                        "Name": "Quarterfinal"
                     },
                     {
                         "PhCode": "2",
@@ -41430,8 +41430,8 @@
     },
     {
         "ID": 29353,
-        "Name": "2025 Conquest Cup",
-        "NameShort": "",
+        "Name": "Istanbul 2025 Conquest Cup",
+        "NameShort": "Istanbul 2025 Conquest Cup",
         "Venue": "",
         "Place": "Istanbul",
         "Country": "TUR",
@@ -42153,7 +42153,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -42201,7 +42201,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -42344,7 +42344,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -42495,7 +42495,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -42893,7 +42893,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -42946,7 +42946,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -42999,7 +42999,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -43050,7 +43050,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -43101,7 +43101,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43149,7 +43149,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43197,7 +43197,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43245,7 +43245,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43292,7 +43292,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43341,7 +43341,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43370,7 +43370,7 @@
         "IsFeatured": true,
         "WorldRecordStatus": true,
         "WorldRankingEvent": true,
-        "IsLive": false,
+        "IsLive": true,
         "IsCancelled": false,
         "ComHideInLive": "0",
         "StatusId": 0,
@@ -43402,7 +43402,49 @@
                         "Phase": "Qualification Round",
                         "NameShort": "QR",
                         "Name": "Qualification Round",
-                        "Finished": false
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "32",
+                        "Phase": "1/32",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "16",
+                        "Phase": "1/16",
+                        "NameShort": "2R",
+                        "Name": "Second Round"
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "3R",
+                        "Name": "Third Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
                     }
                 ]
             },
@@ -43414,7 +43456,49 @@
                         "Phase": "Qualification Round",
                         "NameShort": "QR",
                         "Name": "Qualification Round",
-                        "Finished": false
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "32",
+                        "Phase": "1/32",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "16",
+                        "Phase": "1/16",
+                        "NameShort": "2R",
+                        "Name": "Second Round"
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "3R",
+                        "Name": "Third Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
                     }
                 ]
             },
@@ -43426,7 +43510,49 @@
                         "Phase": "Qualification Round",
                         "NameShort": "QR",
                         "Name": "Qualification Round",
-                        "Finished": false
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "32",
+                        "Phase": "1/32",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "16",
+                        "Phase": "1/16",
+                        "NameShort": "2R",
+                        "Name": "Second Round"
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "3R",
+                        "Name": "Third Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
                     }
                 ]
             },
@@ -43438,15 +43564,340 @@
                         "Phase": "Qualification Round",
                         "NameShort": "QR",
                         "Name": "Qualification Round",
-                        "Finished": false
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "32",
+                        "Phase": "1/32",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "16",
+                        "Phase": "1/16",
+                        "NameShort": "2R",
+                        "Name": "Second Round"
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "3R",
+                        "Name": "Third Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
                     }
                 ]
             }
         ],
-        "CatTeam": [],
-        "Status": "scheduled",
+        "CatTeam": [
+            {
+                "Code": "RM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "12",
+                        "Phase": "1/12",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "2R",
+                        "Name": "Second Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
+            },
+            {
+                "Code": "RW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "12",
+                        "Phase": "1/12",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "2R",
+                        "Name": "Second Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
+            },
+            {
+                "Code": "RX",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "12",
+                        "Phase": "1/12",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "2R",
+                        "Name": "Second Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
+            },
+            {
+                "Code": "CM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
+            },
+            {
+                "Code": "CW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
+            },
+            {
+                "Code": "CX",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "12",
+                        "Phase": "1/12",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "2R",
+                        "Name": "Second Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
+            }
+        ],
+        "Status": "running live",
         "Stages": [
-            "entries"
+            "entries",
+            "qr individual",
+            "qr team",
+            "bracket individual",
+            "bracket team",
+            "rank individual",
+            "rank team"
         ],
         "YoutubeLive": "",
         "Links": {
@@ -43505,7 +43956,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43555,7 +44006,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -43608,7 +44059,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -43661,7 +44112,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43709,7 +44160,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43759,7 +44210,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -43810,7 +44261,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43859,7 +44310,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -43911,7 +44362,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -43967,7 +44418,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -44019,7 +44470,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44066,7 +44517,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -44118,7 +44569,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44166,7 +44617,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44214,7 +44665,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44262,7 +44713,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44311,7 +44762,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44361,7 +44812,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44411,7 +44862,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -44463,7 +44914,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44513,7 +44964,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -44566,7 +45017,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -44619,7 +45070,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44668,7 +45119,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44716,7 +45167,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44762,7 +45213,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -44813,7 +45264,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44864,7 +45315,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -46289,6 +46740,103 @@
         }
     },
     {
+        "ID": 29908,
+        "Name": "Bayerische Meisterschaft Bogen - WA Feldbogen 2025",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Bayerischer Sportschützenbund e.V.",
+        "Country": "GER",
+        "CountryName": "Germany",
+        "DFrom": "2025-06-14",
+        "DTo": "2025-06-15",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 3,
+        "ComDivisions": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
+        "ID": 29921,
+        "Name": "Field round AIM - Archers in Muskoka ",
+        "NameShort": "AIM Field",
+        "Venue": "",
+        "Place": "AIM - Archers in Muskoka ",
+        "Country": "CAN",
+        "CountryName": "Canada",
+        "DFrom": "2025-06-14",
+        "DTo": "2025-06-14",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 3,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 29366,
         "Name": "2025 USA Archery Society for Archery in Michigan Outdoor State Championships",
         "NameShort": "",
@@ -46396,8 +46944,8 @@
     },
     {
         "ID": 29296,
-        "Name": "Singapore 2025 Asia Cup Leg 2",
-        "NameShort": "Singapore 2025",
+        "Name": "Singapore 2025 Asia Cup leg 2",
+        "NameShort": "Singapore 2025 Asia Cup",
         "Venue": "Bukit Gombak Stadium",
         "Place": "Bukit Gombak ",
         "Country": "SGP",
@@ -46406,16 +46954,16 @@
         "DTo": "2025-06-20",
         "WithRes": false,
         "ComEventType": 1,
-        "ComLevel": 8,
-        "ComSubLevel": 0,
+        "ComLevel": 7,
+        "ComSubLevel": 47,
         "ComDis": 1,
         "ComDivisions": [
             1,
             2
         ],
         "EventType": "Competition",
-        "Level": "Other International Event",
-        "SubLevel": null,
+        "Level": "International Event Circuits",
+        "SubLevel": "Asian Grand Prix Circuit",
         "IsFeatured": false,
         "WorldRecordStatus": true,
         "WorldRankingEvent": true,
@@ -47287,6 +47835,58 @@
         "YoutubeLive": ""
     },
     {
+        "ID": 29926,
+        "Name": "Sigrid Johanssons minne ",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Stockholm ",
+        "Country": "SWE",
+        "CountryName": "Sweden",
+        "DFrom": "2025-06-15",
+        "DTo": "2025-06-15",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "Registration URL": "resultat.bagskytte.se",
+            "Result URL": "Resultat.bagskytte.se"
+        }
+    },
+    {
         "ID": 29301,
         "Name": "Campeonato Centroamericano y del Caribe Clasificatorio a Juegos Centroamericano y del Caribe  Santo Domingo 2026",
         "NameShort": "",
@@ -47394,7 +47994,7 @@
     {
         "ID": 29374,
         "Name": "Santo Domingo 2025 Copa Merengue",
-        "NameShort": "",
+        "NameShort": "Santo Domingo 2025 ",
         "Venue": "",
         "Place": "Santo Domingo",
         "Country": "DOM",
@@ -47494,6 +48094,10 @@
         "YoutubeLive": "",
         "Links": {
             "E-Mail": "fedota74@gmail.com"
+        },
+        "Logo": {
+            "URL": "https://extranet.worldarchery.sport/CompetitionLogos/29374.png",
+            "MimeType": "image/png"
         }
     },
     {
@@ -47649,6 +48253,65 @@
         "YoutubeLive": "",
         "Links": {
             "Registration URL": "https://usarchery.sport80.com/public/wizard/e/46248"
+        }
+    },
+    {
+        "ID": 29916,
+        "Name": "Baltic Open Archery Championship 2025",
+        "NameShort": "Baltic Open 2025",
+        "Venue": "",
+        "Place": "Ogres novads, Suntaži",
+        "Country": "LAT",
+        "CountryName": "Latvia",
+        "DFrom": "2025-06-20",
+        "DTo": "2025-06-22",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 8,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "EventType": "Competition",
+        "Level": "Other International Event",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [
+            "CUSTOMREG",
+            "MAREG"
+        ],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "E-Mail": "agate@archery.lv",
+            "Facebook Official Page": "https://www.facebook.com/archerylatvia",
+            "Web": "https://archery.lv/",
+            "Registration URL": "https://ianseo.net/Details.php?toId=23095",
+            "Result URL": "https://ianseo.net/Details.php?toId=23095"
         }
     },
     {
@@ -49926,6 +50589,156 @@
         "YoutubeLive": ""
     },
     {
+        "ID": 29910,
+        "Name": "Württembergische Meisterschaften 2025 Feldbogen",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Württembergischer Schützenverband 1850 e.V.",
+        "Country": "GER",
+        "CountryName": "Germany",
+        "DFrom": "2025-06-28",
+        "DTo": "2025-06-29",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 3,
+        "ComDivisions": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
+        "ID": 29919,
+        "Name": "UL outdoor IV",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Sports Campus Blanchardstown ",
+        "Country": "IRL",
+        "CountryName": "Ireland",
+        "DFrom": "2025-06-28",
+        "DTo": "2025-06-28",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
+        "ID": 29928,
+        "Name": "Košická WA720 double – 2.kolo",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Košice",
+        "Country": "SVK",
+        "CountryName": "Slovakia",
+        "DFrom": "2025-06-28",
+        "DTo": "2025-06-28",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "Web": "https://drive.google.com/file/d/1oUO4-sFqeG7b9AgbkJsmv6teBqZ0eFNT/view"
+        }
+    },
+    {
         "ID": 28961,
         "Name": "2025 California State Outdoor Championship U18, U21, Seniors, Masters",
         "NameShort": "",
@@ -52153,6 +52966,59 @@
         }
     },
     {
+        "ID": 29927,
+        "Name": "2. Kolo Slovenského pohára v Terénnej a 3D lukostreľbe",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Hlohovec",
+        "Country": "SVK",
+        "CountryName": "Slovakia",
+        "DFrom": "2025-07-06",
+        "DTo": "2025-07-06",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 9,
+        "ComSubLevel": 0,
+        "ComDis": 3,
+        "ComDivisions": [
+            1,
+            2,
+            3,
+            4,
+            13
+        ],
+        "EventType": "Competition",
+        "Level": "National Championships",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "Web": "https://drive.google.com/file/d/1r_ewfzUs_H3hTtnuid-ZaBN0-BkpGxc-/view"
+        }
+    },
+    {
         "ID": 28764,
         "Name": "Chester WRS Double WA 720",
         "NameShort": "",
@@ -53839,6 +54705,59 @@
         }
     },
     {
+        "ID": 29920,
+        "Name": "2025 USA Archery Maryland State Outdoor Championship",
+        "NameShort": "",
+        "Venue": "Genesee Valley Outdoor Learning Center",
+        "Place": "Parkton, MD",
+        "Country": "USA",
+        "CountryName": "United States of America",
+        "DFrom": "2025-07-12",
+        "DTo": "2025-07-12",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 99,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "N/A",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [
+            "CUSTOMREG"
+        ],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "Registration URL": "https://usarchery.sport80.com/public/wizard/e/47592"
+        }
+    },
+    {
         "ID": 29497,
         "Name": "VK 25m3p USK",
         "NameShort": "",
@@ -54369,8 +55288,8 @@
     },
     {
         "ID": 29378,
-        "Name": "Morelia 2025 Americas Para Archery Cup Leg 1",
-        "NameShort": "",
+        "Name": "Morelia 2025 Americas Para Archery Cup leg 1",
+        "NameShort": "Morelia 2025 Americas Para Cup",
         "Venue": "Stadium Venustiano Carranza",
         "Place": "Morelia",
         "Country": "MEX",
@@ -54379,16 +55298,16 @@
         "DTo": "2025-07-20",
         "WithRes": false,
         "ComEventType": 1,
-        "ComLevel": 8,
-        "ComSubLevel": 0,
+        "ComLevel": 7,
+        "ComSubLevel": 63,
         "ComDis": 1,
         "ComDivisions": [
             1,
             2
         ],
         "EventType": "Competition",
-        "Level": "Other International Event",
-        "SubLevel": null,
+        "Level": "International Event Circuits",
+        "SubLevel": "American Para Grand Prix Circuit",
         "IsFeatured": false,
         "WorldRecordStatus": true,
         "WorldRankingEvent": true,
@@ -54592,6 +55511,10 @@
         "YoutubeLive": "",
         "Links": {
             "E-Mail": "tiroconarcomichoacan@hotmail.com"
+        },
+        "Logo": {
+            "URL": "https://extranet.worldarchery.sport/CompetitionLogos/29378.png",
+            "MimeType": "image/png"
         }
     },
     {
@@ -54864,6 +55787,101 @@
         ],
         "EventType": "Competition",
         "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
+        "ID": 29909,
+        "Name": "Bayerische Meisterschaft Bogen - WA im Freien 2025",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Bayerischer Sportschützenbund e.V.",
+        "Country": "GER",
+        "CountryName": "Germany",
+        "DFrom": "2025-07-18",
+        "DTo": "2025-07-20",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
+        "ID": 29914,
+        "Name": "Greater Bay Area Indoor Archery Open (Hong Kong 2025) (Star Shoot)",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Tung Cheong Street Sports Centre",
+        "Country": "HKG",
+        "CountryName": "Hong Kong, China",
+        "DFrom": "2025-07-19",
+        "DTo": "2025-07-20",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 8,
+        "ComSubLevel": 0,
+        "ComDis": 2,
+        "ComDivisions": [
+            1,
+            2
+        ],
+        "EventType": "Competition",
+        "Level": "Other International Event",
         "SubLevel": null,
         "IsFeatured": false,
         "WorldRecordStatus": true,
@@ -55570,6 +56588,54 @@
         "YoutubeLive": ""
     },
     {
+        "ID": 29924,
+        "Name": "Sask Archery Provincial Target Championships",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Delisle, SK",
+        "Country": "CAN",
+        "CountryName": "Canada",
+        "DFrom": "2025-07-19",
+        "DTo": "2025-07-19",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 28850,
         "Name": "Welbeck WA1440 & Metric Rounds (I-V)",
         "NameShort": "",
@@ -55909,6 +56975,54 @@
         "YoutubeLive": ""
     },
     {
+        "ID": 29925,
+        "Name": "Sask Archery Field Provincial Championships",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Delsile, SK",
+        "Country": "CAN",
+        "CountryName": "Canada",
+        "DFrom": "2025-07-20",
+        "DTo": "2025-07-20",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 3,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 29294,
         "Name": "Arnhem 2025 European Grand Prix Leg 2",
         "NameShort": "Arnhem 2025",
@@ -55920,16 +57034,16 @@
         "DTo": "2025-07-26",
         "WithRes": false,
         "ComEventType": 1,
-        "ComLevel": 8,
-        "ComSubLevel": 0,
+        "ComLevel": 7,
+        "ComSubLevel": 46,
         "ComDis": 1,
         "ComDivisions": [
             1,
             2
         ],
         "EventType": "Competition",
-        "Level": "Other International Event",
-        "SubLevel": null,
+        "Level": "International Event Circuits",
+        "SubLevel": "European Grand Prix Circuit",
         "IsFeatured": false,
         "WorldRecordStatus": true,
         "WorldRankingEvent": true,
@@ -56012,7 +57126,58 @@
         "YoutubeLive": "",
         "Links": {
             "E-Mail": "gp2025@handboogsport.nl"
+        },
+        "Logo": {
+            "URL": "https://extranet.worldarchery.sport/CompetitionLogos/29294.png",
+            "MimeType": "image/png"
         }
+    },
+    {
+        "ID": 29915,
+        "Name": "Asian Youth Indoor Archery Open (Hong Kong 2025)(Star Shoot)",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Tung Cheong Street Sports Centre",
+        "Country": "HKG",
+        "CountryName": "Hong Kong, China",
+        "DFrom": "2025-07-21",
+        "DTo": "2025-07-25",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 8,
+        "ComSubLevel": 0,
+        "ComDis": 2,
+        "ComDivisions": [
+            1,
+            2
+        ],
+        "EventType": "Competition",
+        "Level": "Other International Event",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
     },
     {
         "ID": 25158,
@@ -57473,6 +58638,7 @@
         ],
         "YoutubeLive": "",
         "Links": {
+            "E-Mail": "oc-catez@archery-si.org",
             "Web": "http://www.archeryeurope.org"
         }
     },
@@ -58193,7 +59359,7 @@
         "Name": "3. Kolo Slovenského pohára v Terénnej a 3D lukostreľbe",
         "NameShort": "",
         "Venue": "",
-        "Place": "Záhorská Bystrica,",
+        "Place": "Záhorská Bystrica",
         "Country": "SVK",
         "CountryName": "Slovakia",
         "DFrom": "2025-08-03",
@@ -58875,7 +60041,7 @@
     {
         "ID": 27699,
         "Name": "Chengdu 2025 World Games",
-        "NameShort": "Chengdu 2025 World Games",
+        "NameShort": "Chengdu 2025",
         "Venue": "Qinglong Lake Park",
         "Place": "Chengdu",
         "Country": "CHN",
@@ -60985,8 +62151,8 @@
     },
     {
         "ID": 29576,
-        "Name": "ParaArchery WRE and European Cup, 2nd leg and Finals",
-        "NameShort": "",
+        "Name": "Nove Mesto 2025 European Para Archery Cup Leg 2 and Finals",
+        "NameShort": "Nove Mesto 2025",
         "Venue": "",
         "Place": "Nové Město nad Metují",
         "Country": "CZE",
@@ -60996,7 +62162,7 @@
         "WithRes": false,
         "ComEventType": 1,
         "ComLevel": 7,
-        "ComSubLevel": 46,
+        "ComSubLevel": 62,
         "ComDis": 1,
         "ComDivisions": [
             1,
@@ -61004,10 +62170,10 @@
         ],
         "EventType": "Competition",
         "Level": "International Event Circuits",
-        "SubLevel": "European Grand Prix Circuit",
+        "SubLevel": "European Para Grand Prix Circuit",
         "IsFeatured": false,
         "WorldRecordStatus": true,
-        "WorldRankingEvent": false,
+        "WorldRankingEvent": true,
         "IsLive": false,
         "IsCancelled": false,
         "ComHideInLive": "0",
@@ -61024,9 +62190,9 @@
             "Notes": ""
         },
         "Options": [
-            "IPC",
             "MAONLY",
             "MAREG",
+            "PWRE",
             "WADA"
         ],
         "CatInd": [
@@ -61135,6 +62301,10 @@
         "YoutubeLive": "",
         "Links": {
             "E-Mail": "snajdrcpv@volny.cz"
+        },
+        "Logo": {
+            "URL": "https://extranet.worldarchery.sport/CompetitionLogos/29576.png",
+            "MimeType": "image/png"
         }
     },
     {
@@ -62179,8 +63349,8 @@
     },
     {
         "ID": 29382,
-        "Name": "Chicago 2025 Americas Para Archery Cup Leg 2",
-        "NameShort": "",
+        "Name": "Chicago 2025 Americas Para Archery Cup leg 2",
+        "NameShort": "Chicago 2025 Americas Para Cup",
         "Venue": "2818 North Halsted St. Chicago",
         "Place": "Chicago",
         "Country": "USA",
@@ -62189,16 +63359,16 @@
         "DTo": "2025-08-31",
         "WithRes": false,
         "ComEventType": 1,
-        "ComLevel": 8,
-        "ComSubLevel": 0,
+        "ComLevel": 7,
+        "ComSubLevel": 63,
         "ComDis": 1,
         "ComDivisions": [
             1,
             2
         ],
         "EventType": "Competition",
-        "Level": "Other International Event",
-        "SubLevel": null,
+        "Level": "International Event Circuits",
+        "SubLevel": "American Para Grand Prix Circuit",
         "IsFeatured": false,
         "WorldRecordStatus": true,
         "WorldRankingEvent": true,
@@ -62402,6 +63572,10 @@
         "YoutubeLive": "",
         "Links": {
             "E-Mail": "nsacevents@gmail.com"
+        },
+        "Logo": {
+            "URL": "https://extranet.worldarchery.sport/CompetitionLogos/29382.png",
+            "MimeType": "image/png"
         }
     },
     {
@@ -64046,6 +65220,54 @@
         }
     },
     {
+        "ID": 29923,
+        "Name": "Cowichan Double 720",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Coiwchan, British Columbia",
+        "Country": "CAN",
+        "CountryName": "Canada",
+        "DFrom": "2025-09-06",
+        "DTo": "2025-09-06",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 29259,
         "Name": "Pocahontas",
         "NameShort": "",
@@ -64686,6 +65908,54 @@
         "YoutubeLive": ""
     },
     {
+        "ID": 29911,
+        "Name": "WAA Welsh and Open Outdoor Championships (WA1440)",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Rougemont School, Newport, Wales",
+        "Country": "GBR",
+        "CountryName": "Great Britain",
+        "DFrom": "2025-09-13",
+        "DTo": "2025-09-13",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 29349,
         "Name": "The 57th National All-Star Archery Tournament",
         "NameShort": "",
@@ -64996,6 +66266,53 @@
             1,
             2,
             3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
+        "ID": 29913,
+        "Name": "Hong Kong Indoor Target Archery Tournament (Star Shoot)",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Luen Wo Hui Sports Centre",
+        "Country": "HKG",
+        "CountryName": "Hong Kong, China",
+        "DFrom": "2025-09-14",
+        "DTo": "2025-09-21",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 2,
+        "ComDivisions": [
+            1,
+            2
         ],
         "EventType": "Competition",
         "Level": "National Competition",
@@ -66090,6 +67407,10 @@
                 "archery250117@gmail.com",
                 "hn101011@gmail.com"
             ]
+        },
+        "Logo": {
+            "URL": "https://extranet.worldarchery.sport/CompetitionLogos/28320.png",
+            "MimeType": "image/png"
         }
     },
     {
@@ -66348,6 +67669,54 @@
         }
     },
     {
+        "ID": 29063,
+        "Name": "Northern Championships",
+        "NameShort": "",
+        "Venue": "Burnie Bowmen",
+        "Place": "Tasmania",
+        "Country": "AUS",
+        "CountryName": "Australia",
+        "DFrom": "2025-09-27",
+        "DTo": "2025-09-28",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 29684,
         "Name": "2025 Cobweb Classic",
         "NameShort": "",
@@ -66602,8 +67971,8 @@
     },
     {
         "ID": 29720,
-        "Name": "2025 Pan American Field Archery Championship",
-        "NameShort": "PFCSCC",
+        "Name": "San Cristobal 2025 Pan American Field Archery Championships",
+        "NameShort": "San Cristobal 2025",
         "Venue": "31a Zona Militar \"Rancho Nuevo\"",
         "Place": "San Cristobal de las Casas, Chiapas, México",
         "Country": "MEX",
@@ -66921,6 +68290,10 @@
         "YoutubeLive": "",
         "Links": {
             "E-Mail": "sports@worldarcherymex.com"
+        },
+        "Logo": {
+            "URL": "https://extranet.worldarchery.sport/CompetitionLogos/29720.png",
+            "MimeType": "image/png"
         }
     },
     {
@@ -67721,6 +69094,54 @@
         }
     },
     {
+        "ID": 29917,
+        "Name": "Indoor 18m Round",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Amersfoort",
+        "Country": "NED",
+        "CountryName": "Netherlands",
+        "DFrom": "2025-10-12",
+        "DTo": "2025-10-12",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 8,
+        "ComSubLevel": 0,
+        "ComDis": 2,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "Other International Event",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 29053,
         "Name": "AJ Barter 50Plus Tournament",
         "NameShort": "",
@@ -67871,6 +69292,54 @@
         }
     },
     {
+        "ID": 29912,
+        "Name": "Audco Archers Double WA720 (WRS)",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Strine Brook Farm, Newport",
+        "Country": "GBR",
+        "CountryName": "Great Britain",
+        "DFrom": "2025-10-12",
+        "DTo": "2025-10-12",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 29368,
         "Name": "Nanjing 2025 Hyundai Archery World Cup Final",
         "NameShort": "Nanjing 2025",
@@ -67919,7 +69388,11 @@
         "CatTeam": [],
         "Status": "scheduled",
         "Stages": [],
-        "YoutubeLive": ""
+        "YoutubeLive": "",
+        "Logo": {
+            "URL": "https://extranet.worldarchery.sport/CompetitionLogos/29368.png",
+            "MimeType": "image/png"
+        }
     },
     {
         "ID": 29350,
@@ -70097,6 +71570,54 @@
         "YoutubeLive": ""
     },
     {
+        "ID": 29907,
+        "Name": "41. Eggenfeldener Hallenturnier",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Bogenschützen Eggenfelden 1983 e.V.",
+        "Country": "GER",
+        "CountryName": "Germany",
+        "DFrom": "2025-11-16",
+        "DTo": "2025-11-16",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 2,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 29875,
         "Name": "Abidjan 2025 African Archery Championships",
         "NameShort": "",
@@ -70207,54 +71728,6 @@
             "E-Mail": "barbara@sanaa.org.za",
             "Web": "www.sanaa.org.za"
         }
-    },
-    {
-        "ID": 29063,
-        "Name": "Northern Championships",
-        "NameShort": "",
-        "Venue": "Burnie Bowmen",
-        "Place": "Tasmania",
-        "Country": "AUS",
-        "CountryName": "Australia",
-        "DFrom": "2025-11-22",
-        "DTo": "2025-11-23",
-        "WithRes": false,
-        "ComEventType": 1,
-        "ComLevel": 10,
-        "ComSubLevel": 0,
-        "ComDis": 1,
-        "ComDivisions": [
-            1,
-            2,
-            3
-        ],
-        "EventType": "Competition",
-        "Level": "National Competition",
-        "SubLevel": null,
-        "IsFeatured": false,
-        "WorldRecordStatus": true,
-        "WorldRankingEvent": false,
-        "IsLive": false,
-        "IsCancelled": false,
-        "ComHideInLive": "0",
-        "StatusId": 0,
-        "StatusDescription": "Recognised",
-        "Address": {
-            "Contact": "",
-            "Address": "",
-            "Zip": "",
-            "Place": "",
-            "State": "",
-            "CountryCode": "",
-            "ContryName": "Not Defined",
-            "Notes": ""
-        },
-        "Options": [],
-        "CatInd": [],
-        "CatTeam": [],
-        "Status": "scheduled",
-        "Stages": [],
-        "YoutubeLive": ""
     },
     {
         "ID": 29696,
@@ -70835,6 +72308,56 @@
         "YoutubeLive": ""
     },
     {
+        "ID": 29922,
+        "Name": "BERLIN OPEN International Archery Tournamant 2025",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Berlin Brandenburg Archery e.V.",
+        "Country": "GER",
+        "CountryName": "Germany",
+        "DFrom": "2025-12-12",
+        "DTo": "2025-12-14",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 2,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [
+            "IPC"
+        ],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 29169,
         "Name": "Indoor 18m Dvoranski pokal",
         "NameShort": "",
@@ -71000,6 +72523,54 @@
             "Registration URL": "www.archeryosa.com",
             "Result URL": "www.archeryosa.com"
         }
+    },
+    {
+        "ID": 29918,
+        "Name": "Indoor 18m Round",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Enschede",
+        "Country": "NED",
+        "CountryName": "Netherlands",
+        "DFrom": "2025-12-14",
+        "DTo": "2025-12-14",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 8,
+        "ComSubLevel": 0,
+        "ComDis": 2,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "Other International Event",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
     },
     {
         "ID": 29170,
