@@ -43355,7 +43355,7 @@
         "CountryName": "Türkiye",
         "DFrom": "2025-06-03",
         "DTo": "2025-06-08",
-        "WithRes": false,
+        "WithRes": true,
         "ComEventType": 1,
         "ComLevel": 3,
         "ComSubLevel": 12,
@@ -43368,12 +43368,12 @@
         "Level": "World Cup",
         "SubLevel": "World Cup Stage",
         "IsFeatured": true,
-        "WorldRecordStatus": true,
+        "WorldRecordStatus": false,
         "WorldRankingEvent": true,
-        "IsLive": true,
+        "IsLive": false,
         "IsCancelled": false,
         "ComHideInLive": "0",
-        "StatusId": 0,
+        "StatusId": 1,
         "StatusDescription": "Recognised",
         "Address": {
             "Contact": "",
@@ -43709,54 +43709,6 @@
                 ]
             },
             {
-                "Code": "RX",
-                "Phases": [
-                    {
-                        "PhCode": "-10",
-                        "Phase": "Qualification Round",
-                        "NameShort": "QR",
-                        "Name": "Qualification Round",
-                        "Finished": true
-                    },
-                    {
-                        "PhCode": "12",
-                        "Phase": "1/12",
-                        "NameShort": "1R",
-                        "Name": "First Round"
-                    },
-                    {
-                        "PhCode": "8",
-                        "Phase": "1/8",
-                        "NameShort": "2R",
-                        "Name": "Second Round"
-                    },
-                    {
-                        "PhCode": "4",
-                        "Phase": "Quarterfinal",
-                        "NameShort": "QF",
-                        "Name": "Quarterfinal"
-                    },
-                    {
-                        "PhCode": "2",
-                        "Phase": "Semifinal",
-                        "NameShort": "SF",
-                        "Name": "Semifinal"
-                    },
-                    {
-                        "PhCode": "1",
-                        "Phase": "Bronze Final",
-                        "NameShort": "BF",
-                        "Name": "Bronze Final"
-                    },
-                    {
-                        "PhCode": "0",
-                        "Phase": "Gold Final",
-                        "NameShort": "F",
-                        "Name": "Gold Final"
-                    }
-                ]
-            },
-            {
                 "Code": "CM",
                 "Phases": [
                     {
@@ -43887,9 +43839,57 @@
                         "Name": "Gold Final"
                     }
                 ]
+            },
+            {
+                "Code": "RX",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": true
+                    },
+                    {
+                        "PhCode": "12",
+                        "Phase": "1/12",
+                        "NameShort": "1R",
+                        "Name": "First Round"
+                    },
+                    {
+                        "PhCode": "8",
+                        "Phase": "1/8",
+                        "NameShort": "2R",
+                        "Name": "Second Round"
+                    },
+                    {
+                        "PhCode": "4",
+                        "Phase": "Quarterfinal",
+                        "NameShort": "QF",
+                        "Name": "Quarterfinal"
+                    },
+                    {
+                        "PhCode": "2",
+                        "Phase": "Semifinal",
+                        "NameShort": "SF",
+                        "Name": "Semifinal"
+                    },
+                    {
+                        "PhCode": "1",
+                        "Phase": "Bronze Final",
+                        "NameShort": "BF",
+                        "Name": "Bronze Final"
+                    },
+                    {
+                        "PhCode": "0",
+                        "Phase": "Gold Final",
+                        "NameShort": "F",
+                        "Name": "Gold Final"
+                    }
+                ]
             }
         ],
-        "Status": "running live",
+        "Status": "finished",
         "Stages": [
             "entries",
             "qr individual",
@@ -44210,7 +44210,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -44362,7 +44362,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -44418,7 +44418,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -44517,7 +44517,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -44569,7 +44569,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44665,7 +44665,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44812,7 +44812,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44914,7 +44914,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -44964,7 +44964,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -45070,7 +45070,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45119,7 +45119,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45167,7 +45167,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45213,7 +45213,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -45264,7 +45264,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45315,12 +45315,61 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "running",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
             "Registration URL": "https://usarchery.sport80.com/public/wizard/e/46465"
         }
+    },
+    {
+        "ID": 29929,
+        "Name": "The 36st Korea Industry Association Archery Event",
+        "NameShort": "36st KIAAE",
+        "Venue": "Okcheon Public Stadium",
+        "Place": "Okcheon",
+        "Country": "KOR",
+        "CountryName": "Republic of Korea",
+        "DFrom": "2025-06-09",
+        "DTo": "2025-06-14",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": "",
+            "Latitude": 36.302487,
+            "Longitude": 127.574507
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "finished",
+        "Stages": [],
+        "YoutubeLive": ""
     },
     {
         "ID": 29557,
@@ -45367,7 +45416,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45414,7 +45463,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45454,7 +45503,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45501,7 +45550,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -45555,7 +45604,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45602,7 +45651,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -45654,7 +45703,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45702,7 +45751,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45751,7 +45800,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45799,7 +45848,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45847,7 +45896,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45895,7 +45944,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -45945,7 +45994,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -45996,7 +46045,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46044,7 +46093,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46092,7 +46141,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46140,7 +46189,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -46192,7 +46241,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46242,7 +46291,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46290,7 +46339,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46338,7 +46387,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46386,7 +46435,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -46437,7 +46486,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46485,7 +46534,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46533,7 +46582,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46581,7 +46630,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46629,7 +46678,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46679,7 +46728,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46729,7 +46778,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -46784,7 +46833,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46832,7 +46881,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -46882,7 +46931,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -46935,7 +46984,7 @@
         ],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "finished",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -47039,7 +47088,7 @@
             }
         ],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [
             "entries"
         ],
@@ -47096,7 +47145,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47146,7 +47195,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47195,7 +47244,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47244,7 +47293,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47293,7 +47342,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47341,7 +47390,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -47392,7 +47441,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47440,7 +47489,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47487,7 +47536,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -47539,7 +47588,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47587,7 +47636,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47635,7 +47684,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47683,7 +47732,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47732,7 +47781,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47781,7 +47830,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47830,7 +47879,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": ""
     },
@@ -47878,7 +47927,7 @@
         "Options": [],
         "CatInd": [],
         "CatTeam": [],
-        "Status": "scheduled",
+        "Status": "running",
         "Stages": [],
         "YoutubeLive": "",
         "Links": {
@@ -48312,6 +48361,10 @@
             "Web": "https://archery.lv/",
             "Registration URL": "https://ianseo.net/Details.php?toId=23095",
             "Result URL": "https://ianseo.net/Details.php?toId=23095"
+        },
+        "Logo": {
+            "URL": "https://extranet.worldarchery.sport/CompetitionLogos/29916.png",
+            "MimeType": "image/png"
         }
     },
     {
@@ -48401,6 +48454,58 @@
         "Status": "scheduled",
         "Stages": [],
         "YoutubeLive": ""
+    },
+    {
+        "ID": 29933,
+        "Name": "Canada Cup East Optional 720 ",
+        "NameShort": "",
+        "Venue": "Caledon",
+        "Place": "Caleodn, ON",
+        "Country": "CAN",
+        "CountryName": "Canada",
+        "DFrom": "2025-06-20",
+        "DTo": "2025-06-20",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "Registration URL": "https://can.service.ianseo.net/General/CompetitionEdit.php?Competition=2025354",
+            "Result URL": "https://can.service.ianseo.net/General/CompetitionEdit.php?Competition=2025354"
+        }
     },
     {
         "ID": 29030,
@@ -48955,6 +49060,62 @@
         "YoutubeLive": ""
     },
     {
+        "ID": 29935,
+        "Name": "Hellenic National Outdoor Competition ",
+        "NameShort": "",
+        "Venue": "Municipal Field of Nikaia ( Proodeftiki Field )",
+        "Place": "Nikaia Attikis",
+        "Country": "GRE",
+        "CountryName": "Greece",
+        "DFrom": "2025-06-21",
+        "DTo": "2025-06-22",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3,
+            4,
+            13
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "info@archery.org.gr",
+            "Address": "Nikaia Attikis",
+            "Zip": "",
+            "Place": "Nikaia Attikis",
+            "State": "Piraeus",
+            "CountryCode": "Gre",
+            "ContryName": "Greece",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "E-Mail": "info@archery.org.gr",
+            "Facebook Official Page": "https://www.facebook.com/HellenicArcheryFederation",
+            "Web": "www.archery.org.gr",
+            "Result URL": "www.archery.org.gr "
+        }
+    },
+    {
         "ID": 29687,
         "Name": "2025 USA Archery Kentucky State Outdoor Championship",
         "NameShort": "",
@@ -49450,6 +49611,62 @@
         "Status": "scheduled",
         "Stages": [],
         "YoutubeLive": ""
+    },
+    {
+        "ID": 29936,
+        "Name": "Hellenic National Outdoor Competition ",
+        "NameShort": "",
+        "Venue": "Municipal Stadium of Aridaia Pellas",
+        "Place": "Aridaia Pellas",
+        "Country": "GRE",
+        "CountryName": "Greece",
+        "DFrom": "2025-06-22",
+        "DTo": "2025-06-22",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3,
+            4,
+            13
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "info@archery.org.gr",
+            "Address": "Aridaia Pellas",
+            "Zip": "",
+            "Place": "Aridaia Pellas",
+            "State": "Pella region",
+            "CountryCode": "Gre",
+            "ContryName": "Greece",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "E-Mail": "info@archery.org.gr",
+            "Facebook Official Page": "https://www.facebook.com/HellenicArcheryFederation",
+            "Web": "www.archery.org.gr",
+            "Result URL": "www.archery.org.gr "
+        }
     },
     {
         "ID": 29346,
@@ -55141,6 +55358,55 @@
             "CountryCode": "",
             "ContryName": "Not Defined",
             "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
+        "ID": 29930,
+        "Name": "The 28th Korea University Archery Federation Tournament",
+        "NameShort": "28th KUAF Tournament",
+        "Venue": "Iksan Sports Complex",
+        "Place": "Iksan ",
+        "Country": "KOR",
+        "CountryName": "Republic of Korea",
+        "DFrom": "2025-07-14",
+        "DTo": "2025-07-18",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": "",
+            "Latitude": 35.968219,
+            "Longitude": 127.009177
         },
         "Options": [],
         "CatInd": [],
@@ -65268,6 +65534,55 @@
         "YoutubeLive": ""
     },
     {
+        "ID": 29937,
+        "Name": "Jubilæumsstævne – Åben jysk mesterskab for ungdom",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Egebjerg Landevej 82, 7250 Hejnsvig",
+        "Country": "DEN",
+        "CountryName": "Denmark",
+        "DFrom": "2025-09-06",
+        "DTo": "2025-09-06",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
         "ID": 29259,
         "Name": "Pocahontas",
         "NameShort": "",
@@ -65628,6 +65943,55 @@
             1,
             2,
             3
+        ],
+        "EventType": "Competition",
+        "Level": "National Competition",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": ""
+    },
+    {
+        "ID": 29938,
+        "Name": "Jubilæumsstævne – Åben Jysk mesterskab for Senior og 50+",
+        "NameShort": "",
+        "Venue": "",
+        "Place": "Egebjerg Landevej 82, 7250 Hejnsvig",
+        "Country": "DEN",
+        "CountryName": "Denmark",
+        "DFrom": "2025-09-07",
+        "DTo": "2025-09-07",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 10,
+        "ComSubLevel": 0,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2,
+            3,
+            4
         ],
         "EventType": "Competition",
         "Level": "National Competition",
@@ -67963,7 +68327,9 @@
         ],
         "CatTeam": [],
         "Status": "scheduled",
-        "Stages": [],
+        "Stages": [
+            "entries"
+        ],
         "YoutubeLive": "",
         "Links": {
             "E-Mail": "slobodan.pavlovic@sssrb.org.rs"
@@ -71995,6 +72361,324 @@
         "YoutubeLive": ""
     },
     {
+        "ID": 29932,
+        "Name": "San Luis Potosi 2025 Pan American Indoor Championship",
+        "NameShort": "",
+        "Venue": "Club Halcones",
+        "Place": "San Luis Potosi",
+        "Country": "MEX",
+        "CountryName": "Mexico",
+        "DFrom": "2025-11-30",
+        "DTo": "2025-12-04",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 6,
+        "ComSubLevel": 58,
+        "ComDis": 2,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "Continental Championships",
+        "SubLevel": "Pan American Indoor Championships",
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [
+            "MAREG"
+        ],
+        "CatInd": [
+            {
+                "Code": "RM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "RW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "RJM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "RJW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "RCM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "RU15M",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "RCW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "RU15W",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "RMM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "RMW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "CM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "CW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "CJM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "CJW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "CCM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "CU15M",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "CCW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "CU15W",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "CMM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "CMW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "BM",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            },
+            {
+                "Code": "BW",
+                "Phases": [
+                    {
+                        "PhCode": "-10",
+                        "Phase": "Qualification Round",
+                        "NameShort": "QR",
+                        "Name": "Qualification Round",
+                        "Finished": false
+                    }
+                ]
+            }
+        ],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "E-Mail": "worldarcheryamericas@gmail.com"
+        }
+    },
+    {
         "ID": 29192,
         "Name": "Cumbria Indoor Combined Open",
         "NameShort": "",
@@ -72260,6 +72944,59 @@
         }
     },
     {
+        "ID": 29931,
+        "Name": "2025 Riverside Festivus",
+        "NameShort": "",
+        "Venue": "Riverside Gun Club",
+        "Place": "Hudson, MA",
+        "Country": "USA",
+        "CountryName": "United States of America",
+        "DFrom": "2025-12-06",
+        "DTo": "2025-12-07",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 99,
+        "ComSubLevel": 0,
+        "ComDis": 2,
+        "ComDivisions": [
+            1,
+            2,
+            3
+        ],
+        "EventType": "Competition",
+        "Level": "N/A",
+        "SubLevel": null,
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": false,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "",
+            "Zip": "",
+            "Place": "",
+            "State": "",
+            "CountryCode": "",
+            "ContryName": "Not Defined",
+            "Notes": ""
+        },
+        "Options": [
+            "CUSTOMREG"
+        ],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "Registration URL": "https://usarchery.sport80.com/public/wizard/e/47659"
+        }
+    },
+    {
         "ID": 29903,
         "Name": "Canberra December President Shoot",
         "NameShort": "",
@@ -72306,6 +73043,67 @@
         "Status": "scheduled",
         "Stages": [],
         "YoutubeLive": ""
+    },
+    {
+        "ID": 29934,
+        "Name": "Jeddah 2025 Asia Cup Stage 3",
+        "NameShort": "Jeddah 2025 Asia Cup Stage 3",
+        "Venue": "Bay La Sun Park",
+        "Place": "Jeddah",
+        "Country": "KSA",
+        "CountryName": "Saudi Arabia",
+        "DFrom": "2025-12-10",
+        "DTo": "2025-12-15",
+        "WithRes": false,
+        "ComEventType": 1,
+        "ComLevel": 7,
+        "ComSubLevel": 47,
+        "ComDis": 1,
+        "ComDivisions": [
+            1,
+            2
+        ],
+        "EventType": "Competition",
+        "Level": "International Event Circuits",
+        "SubLevel": "Asian Grand Prix Circuit",
+        "IsFeatured": false,
+        "WorldRecordStatus": true,
+        "WorldRankingEvent": true,
+        "IsLive": false,
+        "IsCancelled": false,
+        "ComHideInLive": "0",
+        "StatusId": 0,
+        "StatusDescription": "Recognised",
+        "Address": {
+            "Contact": "",
+            "Address": "C33G+3H King Abdullah Economic City",
+            "Zip": "",
+            "Place": "Jeddah",
+            "State": "Makkah",
+            "CountryCode": "Sau",
+            "ContryName": null,
+            "Notes": "King Abdullah Economic City",
+            "Latitude": 22.403071,
+            "Longitude": 39.076561
+        },
+        "Options": [
+            "MAONLY",
+            "MAREG",
+            "WADA",
+            "WRE"
+        ],
+        "CatInd": [],
+        "CatTeam": [],
+        "Status": "scheduled",
+        "Stages": [],
+        "YoutubeLive": "",
+        "Links": {
+            "E-Mail": "a.alnowaiser@saaf.sa"
+        },
+        "Logo": {
+            "URL": "https://extranet.worldarchery.sport/CompetitionLogos/29934.png",
+            "MimeType": "image/png"
+        }
     },
     {
         "ID": 29922,
